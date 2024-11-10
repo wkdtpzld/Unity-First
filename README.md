@@ -1,5 +1,11 @@
 # 유니티 2D 튜토리얼 기록용 커밋
 
+완전재밌음.
+
+https://github.com/user-attachments/assets/8e51eac7-80bc-49e0-b511-23207d66ffd6
+
+
+
 ## 목차
 
 1. Unity 세팅 && Vscode 세팅
